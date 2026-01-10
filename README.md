@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # CRUD-Users
 A practice project focused on implementing User CRUD operations
 =======
